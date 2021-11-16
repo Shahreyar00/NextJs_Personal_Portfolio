@@ -3,13 +3,14 @@ import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
+
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range a technologies in the web development world.
-      From Back-end To Fron-end and Design.
+      From Back-end To Front-end and Design.
     </SectionText>
     <List>
       <ListItem>
@@ -34,7 +35,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             Node and Databases <br />
-            (MongoDB, GraphQL)
+            (MongoDB, MySQL)
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -13,9 +13,9 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          Hey there, Shahreyar this side. I am a full stack web developer and ui/ux designer. I will help you to convert your ideas into design and then into fully functional Web App.
+          Hey there, Shahreyar this side. I am a full stack web developer and ui/ux designer. I will help you to convert your ideas into design and then into fully functional Web App or Website. I am a quick learner too and can learn new frameworks if i find the project intriguing.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={props.handleClick}>SHAHREYAR ARIF</Button>
       </LeftSection>
     </Section>
   </>

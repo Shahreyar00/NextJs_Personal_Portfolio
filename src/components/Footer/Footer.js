@@ -10,13 +10,21 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:+91 3456386755">+91 34563-86755</LinkItem>
+          <LinkItem href="tel:+91 8377892081">+91 8377892081</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:shahreyar@gmail.com">
-            shahreyar@gmail.com
+          <LinkItem href="mailto:shahreyar10.13@gmail.com" target="_blank" rel="noopener noreferrer">
+            shahreyar10.13@gmail.com
           </LinkItem>
+        </LinkColumn>
+        <LinkColumn>
+          <LinkTitle>Resume</LinkTitle>
+          <LinkItem href="https://drive.google.com/file/d/1j2piwWU13ZWoO1GIaf4fzzBraFjv9Ssi/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</LinkItem>
+        </LinkColumn>
+        <LinkColumn>
+          <LinkTitle>Verification Link</LinkTitle>
+          <LinkItem href="https://ipuranklist.com/student/40918002718" target="_blank" rel="noopener noreferrer">University verification</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>

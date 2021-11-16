@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a mid-level full-stack developer and a UI/UX designer. I can give your business idea a modern design and a fully functional website or web app in minimum time possible. I can also build Deeplearning computer vision projects.
+        I am a mid-level full-stack developer and a UI/UX designer. I can give your idea a modern design and a fully functional website or web app in minimum time possible. I can also build Deeplearning computer vision projects.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
