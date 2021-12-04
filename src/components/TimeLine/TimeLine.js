@@ -51,7 +51,6 @@ const Timeline = () => {
         Age         : 22 <br/>
         Nationality : Indian <br/>
         Languages   : English, Hindi(Native) <br/>
-        Address     : Kuju, Ramgarh, Jharkhand, India <br/>
         Education   : B.Tech in Computer Science & Engineering from GGSIPU<br/>
       </SectionText>
     
