@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: 'Website-Multi page',
-    description: "This is a Multi page website build using Next.js and styled using normal CSS.",
+    description: "This is a Multi page website build using Next.js. It's a demonstration of multi page design.",
     image: '/images/h6.png',
     tags: ['Next.js', 'CSS'],
     source: 'https://next-js-agencyui-website.vercel.app/',
@@ -55,7 +55,7 @@ export const projects = [
   },
   {
     title: 'Other portfolio website',
-    description: "This is my other portfolio website. It's a multi page design.",
+    description: "This is my other portfolio website build using React.",
     image: '/images/port2.png',
     tags: ['React', 'Scss'],
     source: 'https://shahreyar-portfolio.netlify.app/',
