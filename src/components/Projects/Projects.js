@@ -4,6 +4,7 @@ import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag,
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
 
+
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
@@ -19,7 +20,8 @@ const Projects = () => (
             </TitleContent>
             <CardInfo className="card-info">{p.description}</CardInfo>
             <div>
-              <TitleContent>Stack</TitleContent>
+              <br/>
+              <TitleContent>STACK</TitleContent>
               <TagList>
                 {p.tags.map((t, i) => {
                   return <Tag key={i}>{t}</Tag>;
@@ -28,7 +30,7 @@ const Projects = () => (
             </div>
             <UtilityList>
               <ExternalLinks href={p.visit} target="_blank" rel="noopener noreferrer">Code</ExternalLinks>
-              <ExternalLinks href={p.source} target="_blank" rel="noopener noreferrer">View the App</ExternalLinks>
+              <ExternalLinks href={p.source} target="_blank" rel="noopener noreferrer">View</ExternalLinks>
             </UtilityList>
           </BlogCard>
         );

@@ -13,7 +13,8 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          Hey there, Shahreyar this side. I am a full stack web developer and ui/ux designer. I will help you to convert your ideas into design and then into fully functional Web App or Website. I am a quick learner too and can learn new frameworks if i find the project intriguing.
+          Hi, I am Shahreyar Arif.
+          I am a student, full-stack web developer and a UI/UX designer. I can make you a fully functional website or web app for your personal use or your business in minimum time possible. I can also build some Deeplearning computer vision projects using Tensorflow and OpenCV.
         </SectionText>
         <Button onClick={props.handleClick}>SHAHREYAR ARIF</Button>
       </LeftSection>

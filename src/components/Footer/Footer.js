@@ -20,7 +20,7 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Resume</LinkTitle>
-          <LinkItem href="https://drive.google.com/file/d/1j2piwWU13ZWoO1GIaf4fzzBraFjv9Ssi/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</LinkItem>
+          <LinkItem href="https://drive.google.com/file/d/1sOreViMs6m6L3yYw8UkwZvqG9xawX7mP/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Verification Link</LinkTitle>
