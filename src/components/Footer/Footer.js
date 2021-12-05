@@ -20,7 +20,7 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Resume</LinkTitle>
-          <LinkItem href="https://drive.google.com/file/d/1sOreViMs6m6L3yYw8UkwZvqG9xawX7mP/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</LinkItem>
+          <LinkItem href="https://drive.google.com/file/d/1PIs8U40fNUnM2nIEsram1x_5Xog5Ya4L/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Verification Link</LinkTitle>
@@ -38,7 +38,7 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/md-shahreyar-arif-278b541b8/" target="_blank" rel="noopener noreferrer">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://google.com" target="_blank" rel="noopener noreferrer">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
