@@ -36,12 +36,12 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Website-Single page',
-    description: "This is a single page website styled using styled-components instead of normal CSS.",
+    title: 'E-Commerce website UI',
+    description: "This is a website built using react and styled using styled-components instead of normal CSS.",
     image: '/images/h7.png',
     tags: ['React', 'Styled-components'],
-    source: 'https://react-styled-mockui.netlify.app',
-    visit: 'https://github.com/Shahreyar00/React_with_StyledComponents',
+    source: 'https://ushoop.netlify.app',
+    visit: 'https://github.com/Shahreyar00/Frontend_e-commerce',
     id: 4,
   },
   {
