@@ -20,12 +20,12 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Resume</LinkTitle>
-          <LinkItem href="https://drive.google.com/file/d/1PIs8U40fNUnM2nIEsram1x_5Xog5Ya4L/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</LinkItem>
+          <LinkItem href="https://drive.google.com/file/d/1Ki3n0vrAUEfX9oYUaNZwMWYpgT0jxGKg/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download</LinkItem>
         </LinkColumn>
-        <LinkColumn>
+        {/* <LinkColumn>
           <LinkTitle>Verification Link</LinkTitle>
           <LinkItem href="https://ipuranklist.com/student/40918002718" target="_blank" rel="noopener noreferrer">University verification</LinkItem>
-        </LinkColumn>
+        </LinkColumn> */}
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
