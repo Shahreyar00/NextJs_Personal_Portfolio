@@ -14,7 +14,7 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
           Hi, I am Shahreyar Arif.
-          I am a student, full-stack web developer and a UI/UX designer. I can make you a fully functional website or web app for your personal use or your business. I can also build some Deeplearning computer vision projects using Tensorflow and OpenCV.
+          I am a student and a full-stack web developer(MERN). I can make you a fully functional website or web app for your personal use or your business. I can also build you some Deeplearning computer vision projects using Tensorflow and OpenCV.
         </SectionText>
         <Button onClick={props.handleClick}>SHAHREYAR ARIF</Button>
       </LeftSection>
