@@ -22,7 +22,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experiece with <br />
             React <br />
-            Next.js
+            NextJs
           </ListParagraph>
         </ListContainer>
       </ListItem>
